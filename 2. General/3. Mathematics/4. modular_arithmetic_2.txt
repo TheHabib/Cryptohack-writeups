@@ -1,0 +1,9 @@
+Fermet's Little Theorem says:
+
+if a is a positive number and p is a prime number, then aᵖ⁻¹ ≡ 1 (mod p)
+
+So given problem is: 
+    273246787654⁶⁵⁵³⁶ mod 65537
+    
+    = 273246787654⁶⁵⁵³⁷⁻¹ mod 65537
+    which is in form of aᵖ⁻¹ mod p which in accordance to Fermet's little theorem, is 1
